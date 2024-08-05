@@ -4,7 +4,7 @@ Technology : Python
 
 Description:
     This application is developed in Python.
-    This is Virtual Voice Assistant which will perform following tasks
+    This is Virtual Voice Assistant which will perform following tasks-
     It can send emails on your behalf.
     It can play music for you.
     It can do Wikipedia searches for you.
